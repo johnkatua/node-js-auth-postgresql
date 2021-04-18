@@ -1,4 +1,4 @@
-# Node.js Express JWT Authentication with Postgre #
+# Node.js Express JWT Authentication with Postgres #
 
 ## About ##
 
